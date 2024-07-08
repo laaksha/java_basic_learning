@@ -1,7 +1,7 @@
 public class Pen {
 
     static boolean clicked;
-    private static boolean unclicked;
+    static boolean unclicked;
     String type = "gel";
     String color = "blue";
     int point = 10;
